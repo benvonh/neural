@@ -1,0 +1,15 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I..",
+      "-o",
+      "example",
+      "main.cpp"
+    ],
+    "directory": "/home/ben/repos/neural/example",
+    "file": "/home/ben/repos/neural/example/main.cpp",
+    "output": "/home/ben/repos/neural/example/example"
+  }
+]
